@@ -1,1 +1,4 @@
 # Server-Hacking
+
+Sunset Server — Password CTF & Detection is a capture‑the‑flag style lab designed to teach password security and defensive detection in isolated, authorized environments. The repository contains challenge descriptions, sanitized writeups, and lab setup guidance that simulate common credential weaknesses so learners can practice identification, documentation, and secure recovery without using exploit commands. Emphasis is placed on detection and response: you’ll find logging strategies, SIEM search ideas, alerting examples, and incident‑response playbooks that help defenders spot and remediate credential misuse. Each challenge includes clear learning objectives, hints, expected flags, and a remediation checklist aimed at hardening systems and improving operational security. All content is explicitly non‑actionable and intended for use only on systems you own or have written permission to test.
+
